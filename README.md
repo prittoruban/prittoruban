@@ -57,9 +57,9 @@ My approach to solving complex technical challenges:
 
 ## 🛠️ Code Quality & Engineering Excellence
 
-```
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
-```
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - *Martin Fowler*
+
 
 My code demonstrates:
 
