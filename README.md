@@ -1,10 +1,14 @@
-## Hello World <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/>, I'm Pritto Ruban | Engineering the Future <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
+# Hello World <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/>, I'm Pritto Ruban | Engineering the Future <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
 
+<!---
 [![Website](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prittoruban.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prittoruban/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prittoruban)
+([![LeetCode](https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prittoruban/))
+
 
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+--->
 
 ## 💭 Philosophy
 
@@ -22,8 +26,8 @@ I believe in creating elegant solutions that solve complex problems with minimal
 
 ```javascript
 const currentFocus = {
-  technologies: ["System Design", "Microservices Architecture", "Cloud Infrastructure"],
-  personalGrowth: ["Mentoring Junior Developers", "Open Source Contributions", "Technical Writing"],
+  technologies: ["System Design", "Backend", "Cloud Infrastructure"],
+  personalGrowth: ["Communication", "Open Source Contributions", "Core CS"],
   interests: ["Zero Trust Security", "Distributed Systems", "Performance Optimization"]
 };
 ```
@@ -104,7 +108,6 @@ Developed algorithmic solutions for:
 
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
---->
 
 ## 📚 System Design Knowledge
 
@@ -145,7 +148,7 @@ Developed algorithmic solutions for:
   </tr>
 </table>
 
-<!---
+
 
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
@@ -202,9 +205,10 @@ I actively contribute to the broader developer community:
   </tr>
 </table>
 
---->
+
 
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+--->
 
 ## 📫 Connect With Me
 
