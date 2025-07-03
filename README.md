@@ -228,7 +228,7 @@ I'm always open to discussing technical challenges, architecture decisions, or c
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=The+best+way+to+predict+the+future+is+to+implement+it." />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal" />
 </p>
 
 <p align="center">
