@@ -26,11 +26,13 @@ I believe in creating elegant solutions that solve complex problems with minimal
 
 ```javascript
 const currentFocus = {
-  technologies: ["System Design", "Backend", "Cloud Infrastructure"],
+  technologies: ["System Design", "Backend", "Cloud", "Blockchain"],
   personalGrowth: ["Communication", "Open Source Contributions", "Core CS"],
   interests: ["Zero Trust Security", "Distributed Systems", "Performance Optimization"]
 };
 ```
+
+<!---
 
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
@@ -75,7 +77,7 @@ My code demonstrates:
 
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
-<!---
+
 
 ## 💡 Featured Engineering Solutions
 
