@@ -1,14 +1,13 @@
-# Hello World <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/>, I'm Pritto Ruban | Engineering the Future <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
+# 🌐 Hello World  <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
 
-<!---
+
 [![Website](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prittoruban.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prittoruban)
-([![LeetCode](https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prittoruban/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prittoruban/)
 
 
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
---->
 
 ## 💭 Philosophy
 
@@ -218,7 +217,7 @@ I'm always open to discussing technical challenges, architecture decisions, or c
 
 <p align="center">
   <a href="mailto:prittoprogrammer@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/prittoruban"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/prittoruban"><img src="https://img.shields.io/badge/Twitter-Let's_Build-0A66C2?style=for-the-badge&logo=X&logoColor=white" alt="X(Formerly Twitter)" /></a>
   <a href="https://prittoruban.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-See_My_Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
