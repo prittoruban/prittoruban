@@ -19,7 +19,7 @@
 - I do <ins>CyberSec</ins> for fun. CTFs is something I do in my free time.
 - I can also do Frontend in React and Next but CSS is something I don't enjoy doing.
 - Would love to colloborate on projects! Feel free to reach out to me.
-- Also love linux but also love windows so Duel boot is my best friend.
+- Also love linux but also love windows so Duel boot and VM is my best friend.
 - If you don't find me coding, I'm probably in gym <br>
 
 <!---
