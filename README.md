@@ -12,14 +12,20 @@
 ## 💭 Philosophy
 
 > "The best code is no code at all. Every line of code you write is code that needs to be tested, documented and maintained." - *Jeff Atwood*
+    
+- I love tech, all the systems and innovations in place in order to make a computer tick, I love learning about them.
+- <ins>Backend Dev.</ins> I find coding them to be so incredibly fullfilling.
+- <ins>DevOps</ins> and Cloud is something I'm not very proficient in but constantly learning and improving.
+- I do <ins>CyberSec</ins> for fun. CTFs is something I do in my free time.
+- I can also do Frontend in React and Next but CSS is something I don't enjoy doing.
+- Would love to colloborate on projects! Feel free to reach out to me.
+- Also love linux but also love windows so Duel boot is my best friend.
+- If you don't find me coding, I'm probably in gym <br>
 
-I believe in creating elegant solutions that solve complex problems with minimal complexity. My development approach centers on three core principles:
-
-- **Scalability First**: Building systems that grow gracefully with user demand
-- **Security by Design**: Integrating security practices from the foundation up
-- **Developer Experience**: Creating maintainable codebases that future developers will thank you for
-
+<!---
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+
 
 ## 🔍 Current Focus Areas
 
@@ -213,7 +219,7 @@ I actively contribute to the broader developer community:
 
 ## 📫 Connect With Me
 
-I'm always open to discussing technical challenges, architecture decisions, or collaboration opportunities:
+Would love to colloborate on projects! Feel free to reach out to me:
 
 <p align="center">
   <a href="mailto:prittoprogrammer@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
