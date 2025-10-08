@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prittoruban.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prittoruban)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prittoruban/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1650+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prittoruban/)
 
 
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
@@ -11,16 +11,16 @@
 
 ## 💭 Philosophy
 
-> "The best code is no code at all. Every line of code you write is code that needs to be tested, documented and maintained." - *Jeff Atwood*
-    
-- I love tech, all the systems and innovations in place in order to make a computer tick, I love learning about them.
-- <ins>Backend Dev.</ins> I find coding them to be so incredibly fullfilling.
-- <ins>DevOps</ins> and Cloud is something I'm not very proficient in but constantly learning and improving.
-- I do <ins>CyberSec</ins> for fun. CTFs is something I do in my free time.
-- I can also do Frontend in React and Next but CSS is something I don't enjoy doing.
-- Would love to colloborate on projects! Feel free to reach out to me.
-- Also love linux but also love windows so Duel boot and VM is my best friend.
-- If you don't find me coding, I'm probably in gym <br>
+> "The best code is no code at all. Every line of code you write is code that needs to be tested, documented, and maintained." – *Jeff Atwood*
+
+- I love tech — all the systems and innovations that make a computer tick fascinate me, and I’m always eager to learn more.  
+- <ins>Backend Dev.</ins> Coding backend systems is incredibly fulfilling for me.  
+- <ins>DevOps</ins> and Cloud are areas I’m constantly learning and improving in, even if I’m not an expert yet.  
+- <ins>CyberSec</ins> is my playground — I enjoy solving CTFs and experimenting with security challenges in my free time.  
+- I also do Frontend with React and Next.js, not compromising on functionality though.  
+- I love Linux, Windows, dual-booting, running VMs, and WSL — having the flexibility of all environments is my comfort zone.  
+- When I’m not coding, you’ll probably find me at the gym or playing chess. 
+
 
 <!---
 <img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
@@ -219,7 +219,7 @@ I actively contribute to the broader developer community:
 
 ## 📫 Connect With Me
 
-Would love to colloborate on projects! Feel free to reach out to me:
+Always up for collabs — feel free to reach out!
 
 <p align="center">
   <a href="mailto:prittoprogrammer@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
